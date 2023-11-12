@@ -49,11 +49,5 @@ package sla defines the service-level agreement for cirello.io/... packages.
 	This SLA applies to all Go packages under the following namespaces:
 
 	-	[`cirello.io/...`](https://cirello.io/...)
-
-	with the exception of:
-
-	-	`cirello.io/exp/...`
-	-	`cirello.io/junk/...`
-	-	`cirello.io/gists/...`
 */
 package sla
